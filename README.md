@@ -13,3 +13,6 @@ O projeto utiliza funçoes e elementos do doom E eventos de mouse
 *HTML5
 *CSS3
 *JavaScript
+
+![Churrascometro](Churrascometro_1.jpeg)
+![Churrascometro](Churrascometro_2.jpeg)
