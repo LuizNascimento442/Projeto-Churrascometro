@@ -16,3 +16,7 @@ O projeto utiliza funçoes e elementos do doom E eventos de mouse
 
 ![Churrascometro](Churasscometro_1.jpeg)
 ![Churrascometro](Churrascometro_2.jpeg)
+
+##link para testar o projeto
+
+<https://pensive-knuth-e72d8f.netlify.app/>
